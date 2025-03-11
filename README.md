@@ -81,7 +81,7 @@ This repository contains various data science projects completed as part of my M
 ---
 
 ## Technologies Used
-- **Programming Languages:** Python, C++ (OpenMP, CUDA)
+- **Programming Languages:** Python, R, C++ (OpenMP, CUDA)
 - **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib, Seaborn, OpenMP, MPI
 - **BI Tools:** Power BI, Streamlit
 - **Big Data & Cloud:** Google Colab, UNINA Cluster
