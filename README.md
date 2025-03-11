@@ -92,4 +92,5 @@ This repository contains various data science projects completed as part of my M
 
 ## Contact
 For any queries or collaborations, feel free to reach out.
-**LinkedIn:** [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/))  
+
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/) 
