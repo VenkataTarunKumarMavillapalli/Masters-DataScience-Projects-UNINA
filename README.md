@@ -7,7 +7,21 @@ This repository contains various data science projects completed as part of my M
 
 ## Projects
 
-### 1. Business Intelligence - Streamlit, Power BI, Bonita
+### 1. Information Retrieval - RAG-based PDF-Bot (Retrieval-Augmented Generation)
+- **Objective:** Develop a Streamlit application to interact with PDF documents using AI models.
+- **Implementation:**
+  - **LangChain for Retrieval-Augmented Generation (RAG).**
+  - **Features:**
+    - PDF File Upload.
+    - AI Model Selection.
+    - User Question Input.
+    - Temperature Adjustment for response variation.
+    - Chat Memory to retain previous interactions.
+- **Outcome:** Built an AI-powered chatbot for document-based Q&A, enhancing document interaction efficiency.
+
+---
+
+### 2. Business Intelligence - Streamlit, Power BI, Bonita
 **Project Name:** Weather Data Analysis Dashboard
 - **Objective:** Develop an interactive dashboard using Streamlit, Power BI, and Bonita BPM for workflow automation.
 - **Implementation:**
@@ -19,7 +33,7 @@ This repository contains various data science projects completed as part of my M
 
 ---
 
-### 2. Forecasting Weight Dynamics and Visualizing Historical Data - Time Series Analysis
+### 3. Forecasting Weight Dynamics and Visualizing Historical Data - Time Series Analysis
 - **Objective:** Predict the weight of an insect colony using time series forecasting techniques.
 - **Implementation:**
   - **EDA**: Explored colony and environmental data.
@@ -31,7 +45,7 @@ This repository contains various data science projects completed as part of my M
 
 ---
 
-### 3. Missing Value Imputation for Titanic Dataset using OpenMP
+### 4. Missing Value Imputation for Titanic Dataset using OpenMP
 - **Objective:** Implement mean imputation for missing values in the Titanic dataset using OpenMP and analyze execution time vs. number of threads.
 - **Implementation:**
   - Used **UNINA Cluster** (32 nodes, 128 GPUs) for parallel computing.
@@ -41,7 +55,7 @@ This repository contains various data science projects completed as part of my M
 
 ---
 
-### 4. Predicting Housing Prices in California using Machine Learning
+### 5. Predicting Housing Prices in California using Machine Learning
 - **Objective:** Develop a predictive model to estimate California housing prices using census data.
 - **Implementation:**
   - **Data Preprocessing & Preparation**: Cleaning, handling missing values, feature scaling.
@@ -53,7 +67,7 @@ This repository contains various data science projects completed as part of my M
 
 ---
 
-### 5. Statistical Data Analysis on Human Activity Recognition Dataset
+### 6. Statistical Data Analysis on Human Activity Recognition Dataset
 - **Objective:** Use sensor data from smartphones to predict physical activities.
 - **Implementation:**
   - **Data Preprocessing & Cleaning**: Handling missing values, removing outliers.
@@ -64,19 +78,6 @@ This repository contains various data science projects completed as part of my M
   - **Validation**: Used K-fold cross-validation.
 - **Outcome:** Identified the best classification model with high accuracy for predicting human activities based on smartphone sensor data.
 
----
-
-### 6. Information Retrieval - RAG-based PDF-Bot (Retrieval-Augmented Generation)
-- **Objective:** Develop a Streamlit application to interact with PDF documents using AI models.
-- **Implementation:**
-  - **LangChain for Retrieval-Augmented Generation (RAG).**
-  - **Features:**
-    - PDF File Upload.
-    - AI Model Selection.
-    - User Question Input.
-    - Temperature Adjustment for response variation.
-    - Chat Memory to retain previous interactions.
-- **Outcome:** Built an AI-powered chatbot for document-based Q&A, enhancing document interaction efficiency.
 
 ---
 
