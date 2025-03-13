@@ -91,7 +91,6 @@ This repository contains various data science projects completed as part of my M
 
 ---
 
-## Contact
-For any queries or collaborations, feel free to reach out.
+## 📫 Contact
 
-**LinkedIn:** [Venkata Tarun Kumar Mavillapalli](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/) 
+Feel free to reach out to me on [<img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-14linkedin-4102586_113786.png" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/) [<img src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-6twitter-4102580_113802.png" alt="Twitter" width="20" height="20">](https://x.com/mvtkop760) Thank you for visiting my profile! 🙏
