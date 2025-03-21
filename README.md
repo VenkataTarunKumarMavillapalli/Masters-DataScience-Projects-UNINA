@@ -78,6 +78,20 @@ This repository contains various data science projects completed as part of my M
   - **Validation**: Used K-fold cross-validation.
 - **Outcome:** Identified the best classification model with high accuracy for predicting human activities based on smartphone sensor data.
 
+---
+
+### 7. Data Mining of Fake News and Real News Classification
+- **Objective:** To classify fake and real news using machine learning and deep learning models with TF-IDF and Word2Vec representations.
+- **Implementation:**
+    - **Text Representations:** TF-IDF (word frequency-based) and Word2Vec (semantic-based).
+    - **Models Used:** Logistic Regression, Random Forest, MLP, RNN, LSTM, GRU, Bidirectional RNN, and Transformers.
+    - **Tools & Libraries:** Python, Scikit-learn, TensorFlow, Streamlit.
+- **Outcome:**
+    - **Best Model:** MLP with TF-IDF (94.16% accuracy).
+    - **TF-IDF** consistently outperforms Word2Vec in classification accuracy.
+    - **Bidirectional** RNN and GRU also performed well (94% and 93%).
+    - **Transformers** showed competitive results (90-91%) but did not surpass MLP.
+    - **Finetuned - BERT(Bidirectional Encoder Representations from Transformers )** which outperformed all the models.
 
 ---
 
