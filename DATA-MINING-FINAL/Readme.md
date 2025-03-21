@@ -8,7 +8,6 @@ This repository contains the classification of fake and real news articles using
 - [Experimental Results](#experimental-results)
 - [Analysis and Key Findings](#analysis-and-key-findings)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
-- [How to Run](#how-to-run)
 
 ## Methodology
 
