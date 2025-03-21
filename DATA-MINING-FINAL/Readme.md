@@ -61,6 +61,7 @@ This repository contains the classification of fake and real news articles using
 - **TF-IDF is a better feature extraction method for fake news classification.**
 - **MLP (94.16%) and Bidirectional RNN (94%) provide the best performance.**
 - **Transformer models require further tuning but show promising results.**
+- **Finetuned - BERT(Bidirectional Encoder Representations from Transformers )** which outperformed all the models.
 
 ### Recommendations
 - **Experiment with BERT or other contextual embeddings.**
